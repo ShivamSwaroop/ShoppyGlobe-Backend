@@ -60,7 +60,7 @@ Set header for protected requests:
 
 Key: Authorization
 
-Value: JWT <token> 
+Value: JWT token 
 
 Add to cart: POST /api/cart with productId & quantity.
 
