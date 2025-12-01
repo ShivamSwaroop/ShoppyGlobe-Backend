@@ -36,7 +36,7 @@ Local MongoDB server
 
 Clone repo :
 
-git clone 
+git clone https://github.com/ShivamSwaroop/ShoppyGlobe-Backend.git
 cd ShoppyGlobe-backend
 
 
